@@ -1,3 +1,20 @@
+This is a simple algorithm visualizer made using typescript and react. 
+![image](https://github.com/user-attachments/assets/c29d5b99-350e-42cc-9370-5db893c5e2b8)
+
+For now there are 3 main sorting algorithms one can visualize. 
+![image](https://github.com/user-attachments/assets/8516a08b-0674-44e6-b6ca-be0670218647)
+
+
+
+
+
+
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
